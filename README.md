@@ -7,8 +7,8 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your_username/github_api_test.git
-    cd github_api_test
+    git clone https://github.com/Citrionyx/EffectiveMoblie_GitHub_API
+    cd EffectiveMoblie_GitHub_API
 2. Создайте и активируйте виртуальное окружение (опционально):
    ```bash
    python -m venv venv
